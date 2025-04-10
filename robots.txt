@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://scr227.github.io/MUSIC-1701-Final-Project/sitemap.xml

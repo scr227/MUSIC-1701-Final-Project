@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://scr227.github.io/MUSIC-1701-Final-Project/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://scr227.github.io/MUSIC-1701-Final-Project/</loc>
+</url>
+<url>
+<loc>https://scr227.github.io/MUSIC-1701-Final-Project/bibliography.html</loc>
+<lastmod>2025-04-10T12:03:02-04:00</lastmod>
+</url>
+<url>
+<loc>https://scr227.github.io/MUSIC-1701-Final-Project/critical-reading-assignment.html</loc>
+<lastmod>2025-04-10T12:03:14-04:00</lastmod>
+</url>
+<url>
+<loc>https://scr227.github.io/MUSIC-1701-Final-Project/final-essay.html</loc>
+<lastmod>2025-04-10T12:03:38-04:00</lastmod>
+</url>
+<url>
+<loc>https://scr227.github.io/MUSIC-1701-Final-Project/music-review.html</loc>
+<lastmod>2025-04-10T12:03:17-04:00</lastmod>
+</url>
+<url>
+<loc>https://scr227.github.io/MUSIC-1701-Final-Project/playlist-and-listening-guide.html</loc>
+<lastmod>2025-04-10T12:03:32-04:00</lastmod>
+</url>
+<url>
+<loc>https://scr227.github.io/MUSIC-1701-Final-Project/put-the-fries-in-the-bag.html</loc>
+<lastmod>2025-04-10T12:04:21-04:00</lastmod>
+</url>
+</urlset>
